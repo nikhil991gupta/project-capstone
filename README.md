@@ -1,4 +1,7 @@
-# Setting Up the MERN Booking App
+# Setting Up the  Booking App
+<img src="frontend/public/Architecture.png"></img>
+
+
 
 This guide will walk you through the process of setting up the MERN Booking App on your local machine.
 
@@ -12,7 +15,7 @@ Start by cloning the repository to your local machine:
 
 ```bash
 git clone https://github.com/nikhil991gupta/project-capstone-app.git
-cd mern-booking-app
+cd project-capstone
 ```
 
 ## Backend Configuration
