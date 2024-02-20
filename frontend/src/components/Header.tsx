@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { useAppContext } from "../contexts/AppContext";
 import SignOutButton from "./SignOutButton";
-import logo from "../assets/logo.png";
+import logo from "../assets/logo1.png";
 
 
 const Header = () => {
@@ -14,7 +14,7 @@ const Header = () => {
           
           
         <Link to="/" className="flex items-center text-white no-underline">
-      <img src={logo} alt="TravelNest Logo" className=" h-8 me-3" />
+      <img src={logo} alt="TravelNest Logo" className=" h-4 me-2" />
       TravelNest
     </Link>
 
