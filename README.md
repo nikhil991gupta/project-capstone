@@ -1,5 +1,13 @@
 # Setting Up the  Booking App
 <img src="frontend/public/Architecture.png"></img>
+<img src="frontend/public/P1.png"></img>
+<img src="frontend/public/P2.png"></img>
+<img src="frontend/public/P3.png"></img>
+<img src="frontend/public/P4.png"></img>
+<img src="frontend/public/P5.png"></img>
+<img src="frontend/public/P6.png"></img>
+<img src="frontend/public/P7.png"></img>
+
 
 
 
